@@ -1,6 +1,5 @@
 * {
-  font-family: "Sono", sans-serif;
-}
+  font-family: "Sono", sans-serif;}
 .calculator {
   width: 340px;
   margin: auto;
@@ -60,4 +59,12 @@ button:hover {
 .zero {
   border-radius: 10px;
   width: 145px;
+}
+
+.footer{
+padding-right: 20px;
+text-align:  right;
+font-size: 15px;
+font-family: 'Courier New', Courier, monospace;
+
 }
