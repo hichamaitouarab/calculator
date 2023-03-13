@@ -1,19 +1,21 @@
-Simple-Calculator
+--Simple-Calculator--
 
-A simple Calculator for general purposes.
+    ---> A simple Calculator for general purposes.
 
-Why use it?
-Its useful for simple calculations.
+° Why use it?
 
-Features
-Add
-Multiply
-Subtract
-Divide
+    Its useful for simple calculations.
 
-Built With
+°Features
 
-love
-html
-css
-javascript
+    - Add
+    - Multiply
+    - Subtract
+    - Divide
+
+°Built With
+
+    - love
+    - html
+    - css
+    - javascript
