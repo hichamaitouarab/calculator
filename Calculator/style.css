@@ -1,5 +1,8 @@
 * {
-  font-family: "Sono", sans-serif;}
+  font-family: "Sono", sans-serif;
+  padding-top: 10px;
+
+}
 .calculator {
   width: 340px;
   margin: auto;
@@ -21,9 +24,9 @@ input[type="text"] {
   border: none;
   font-size: 24px;
   color: #ececec;
-  text-align: center;
-  box-shadow: inset 0 0 5px rgba(18, 18, 18, 0.2);
-  background-color: #8a8f92;
+  text-align: right;
+  box-shadow: none;
+  background-color: #263139;
 }
 
 button {
@@ -59,12 +62,4 @@ button:hover {
 .zero {
   border-radius: 10px;
   width: 145px;
-}
-
-.footer{
-padding-right: 20px;
-text-align:  right;
-font-size: 15px;
-font-family: 'Courier New', Courier, monospace;
-
 }
